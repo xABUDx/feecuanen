@@ -111,6 +111,7 @@ class App extends React.Component {
               </div>
             </div>
 
+
             <div className='col-6'>
               <div className='card-wrapper p-4'>
                 <div className='icon-wrapper mb-1'>

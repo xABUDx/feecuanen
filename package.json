@@ -1,7 +1,7 @@
 {  
   "name": "feecuanen",
   "version": "0.1.0",
-  "homepage": "https://xabudx.github.io/mindxheart/",
+  "homepage": "https://xabudx.github.io/feecuanen/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
